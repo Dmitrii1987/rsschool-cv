@@ -36,8 +36,8 @@
     width: 370px;
   }
 
-  about-me-container {
-    padding: 110px 90px 110px 90px;
+  .about-me-container {
+    padding-bottom: 10px;
   }
 
   .contacts-container {
