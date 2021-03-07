@@ -137,7 +137,7 @@
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
   }
   .projects-container {
     margin-bottom: 55px;
@@ -147,9 +147,23 @@
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
-    margin-top: 10px;
-    margin-bottom: 15px;
   }
   .profession-color {
     color: #0c08ff;
+  }
+
+  .work {
+    margin-bottom: 20px;
+  }
+
+  .education {
+    margin-bottom: 20px;
+  }
+
+  .english {
+    margin-bottom: 20px;
+  }
+
+  .english-title {
+    padding-bottom: 10px;
   }
