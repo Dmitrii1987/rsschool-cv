@@ -28,8 +28,6 @@
   .sidebar {
     background-color: grey;
     width: 370px;
-    padding-top: 40px;
-    padding-bottom: 40px;
   }
 
   .my-photo {
@@ -133,9 +131,9 @@
     margin-bottom: 65px;
   }
   .projects-title {
-    font-size: 22px;
+    font-size: 30px;
     font-weight: 700;
-    line-height: 24px;
+    line-height: 32px;
     padding-bottom: 10px;
   }
   .projects-container {
@@ -143,9 +141,9 @@
     margin-left: 15px;
   }
   .profession-title {
-    font-size: 16px;
+    font-size: 30px;
     font-weight: 700;
-    line-height: 24px;
+    line-height: 38px;
   }
   .profession-color {
     color: #0c08ff;
