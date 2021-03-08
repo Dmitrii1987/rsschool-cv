@@ -27,12 +27,12 @@
 
   .sidebar {
     background-color: grey;
-    width: 370px;
+    width: 400px;
   }
 
   .my-photo {
-    width: 370px;
-    height: 470px;
+    width: 400px;
+    height: 400px;
   }
 
   .about-me-container {
@@ -40,7 +40,7 @@
   }
 
   .contacts-container {
-    margin: 60px 40px 55px 40px;
+    margin: 30px 40px 25px 40px;
   }
 
   .contact-title {
@@ -71,7 +71,7 @@
     font-weight: 700;
     line-height: 24px;
     color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .tech-skills-container {
@@ -97,7 +97,7 @@
     font-weight: 700;
     line-height: 24px;
     color: #fff;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
   }
   .soft-skills-container {
     margin-left: 40px;
